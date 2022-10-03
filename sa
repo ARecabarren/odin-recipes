@@ -1,0 +1,23 @@
+[33mcommit 1b59eaef92a73da3a4d380f51b83ee102e4aee6f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: alvaro <arecabarren14@alumnos.utalca.cl>
+Date:   Mon Oct 3 07:08:49 2022 -0300
+
+    Add links between pages and spaghetti recipe
+
+[33mcommit b36b03633441a965f2bb1e243dd71cf45379ad32[m
+Author: alvaro <arecabarren14@alumnos.utalca.cl>
+Date:   Mon Oct 3 06:39:56 2022 -0300
+
+    Add omelete recipe content
+
+[33mcommit e2c4ada2be249c6811493a625309d206fb99b4e1[m
+Author: alvaro <arecabarren14@alumnos.utalca.cl>
+Date:   Mon Oct 3 06:25:44 2022 -0300
+
+    Add recipes folder and omelet recipe
+
+[33mcommit 7e8ccd8c4d6437bd589052272d81afe5c9095fb9[m
+Author: alvaro <arecabarren14@alumnos.utalca.cl>
+Date:   Sun Oct 2 08:45:36 2022 -0300
+
+    Add README.me & index.html .Fills the boilerplate
